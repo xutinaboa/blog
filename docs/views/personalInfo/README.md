@@ -18,6 +18,15 @@ vx:boo_god
 
 ### 格言历史
 
+2018-11-01
+
+Only through focus can you do world-class things, no matter how capable you are
+
+与能力无关，只有专注才能进取
+
+————Bill Gates
+
+
 2018-08-01
 
 The fate of destruction is also the joy of rebirth
