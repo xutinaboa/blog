@@ -12,7 +12,7 @@ module.exports = {
     }
   },
   // 最后更新时间
-  lastUpdated: 'Last Updated', // string | boolean
+  // lastUpdated: 'Last Updated', // string | boolean
   // 作者
   author: 'tboo',
   // 备案号
