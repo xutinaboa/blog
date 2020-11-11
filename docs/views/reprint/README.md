@@ -15,3 +15,4 @@ sidebar: false
 - [CSS和JS阻塞二三事](https://juejin.im/post/6844904052396933134)
 - [css加载会造成阻塞吗](https://juejin.im/post/6844903667733118983)
 - [浏览器页面资源加载过程与优化](https://juejin.im/post/6844903545016156174)
+- [Hybrid开发中JSBridge的实现](https://zhuanlan.zhihu.com/p/32899522)
